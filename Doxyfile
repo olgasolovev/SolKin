@@ -1,5 +1,5 @@
-# Doxyfile for the MRTA repository (Python).  Run:  doxygen Doxyfile
-PROJECT_NAME           = "MRTA: Mode-Resolved Relaxation-Time Approximation"
+# Doxyfile for the SolKin repository (Python).  Run:  doxygen Doxyfile
+PROJECT_NAME           = "SolKin: Mode-Resolved RTA kinetic-theory solver"
 PROJECT_BRIEF          = "2D kinetic-theory solvers and the non-separable \
 leading-log QCD (Fokker-Planck) benchmark"
 OUTPUT_DIRECTORY       = docs
