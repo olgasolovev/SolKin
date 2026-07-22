@@ -323,13 +323,13 @@ resolution (Nx = 192, Nphi = 128, dt = 0.02, tau_max = 8): a few minutes on
 one node; the full money-plot scan (4 spectra x 12 opacities x 3 harmonics)
 is a parallel job array.
 ##  Citation
-If you use MRTA in research leading to a publication, please cite both:
+If you use SolKin in research leading to a publication, please cite both:
 
 1. The associated scientific paper:
    O. Soloveva et al., “Exact Factorization of the Eccentricity-to-Flow Response in Kinetic Theory”, ARXIV, 2607.xxxx.
 
-2. The specific MRTA software release:
-   O. Soloveva, MRTA: 2D mode-resolved transport solver,
+2. The specific SolKin software release:
+   O. Soloveva, SolKin: 2D mode-resolved Kinetic transport Solver,
    version X.Y.Z, Zenodo DOI.
 
 Please also report the software version or Git commit used.
