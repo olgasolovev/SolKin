@@ -330,6 +330,6 @@ If you use SolKin in research leading to a publication, please cite both:
 
 2. The specific SolKin software release:
    O. Soloveva, SolKin: 2D mode-resolved Kinetic transport Solver,
-   version X.Y.Z, Zenodo DOI.
+   version 1.0, [![DOI](https://zenodo.org/badge/1306761569.svg)](https://doi.org/10.5281/zenodo.21498484).
 
 Please also report the software version or Git commit used.
