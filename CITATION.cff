@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: "If you use MRTA in published research, please cite the associated paper and software release."
+title: "MRTA: 2D mode-resolved transport solver"
+type: software
+authors:
+  - family-names: "Soloveva"
+    given-names: "Olga"
+repository-code: "https://github.com/olgasolovev/mrta"
+license: "GPL-2.0-only"
+
+preferred-citation:
+  type: article
+  authors:
+    - family-names: "Soloveva"
+      given-names: "Olga"
+  title: "TITLE OF THE ASSOCIATED PAPER"
+  year: 2026
+  doi: "PAPER_DOI"
